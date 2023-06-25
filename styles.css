@@ -1,16 +1,16 @@
 body {
-    background-color: #191919;
+    background-color: #2A85B7;
 }
-
 
 .navbar {
     overflow: hidden;
-    background-color: #808080;
+    background-color: #6CB6DE;
+    border-radius: 5px;
 }
 
 .navbar a{
     float:left;
-    font-size:16px;
+    font-size:24px;
     color:black;
     text-align:center;
     padding: 14px 16px;
@@ -18,5 +18,12 @@ body {
 }
 
 .navbar a:hover{
-    background-color:#514e4e;
+    background-color:#379cd2;
+}
+
+.mainDiv{
+    overflow: hidden;
+    background-color: #6CB6DE;
+    border-radius: 5px;
+    padding-left: 10px;
 }
